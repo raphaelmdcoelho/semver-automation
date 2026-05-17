@@ -39,6 +39,8 @@ Developer commits (main)
 
 ## Local setup
 
+Requires Node.js 22 or higher (matches the CI environment).
+
 ```bash
 git clone <repo-url>
 cd semver-playground
