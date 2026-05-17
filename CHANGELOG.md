@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/raphaelmdcoelho/semver-automation/compare/v1.0.1...v2.0.0) (2026-05-17)
+
+
+### Features
+
+* a new feature with a Break change ([c3e3984](https://github.com/raphaelmdcoelho/semver-automation/commit/c3e3984ec2ea8d0eb689615f906315e8fb5a283b))
+
+
+### BREAKING CHANGES
+
+* break the app
+
 ## [1.0.1](https://github.com/raphaelmdcoelho/semver-automation/compare/v1.0.0...v1.0.1) (2026-05-17)
 
 
