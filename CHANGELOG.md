@@ -1,3 +1,13 @@
+## [5.0.0](https://github.com/raphaelmdcoelho/semver-automation/compare/v4.0.0...v5.0.0) (2026-05-25)
+
+### ⚠ BREAKING CHANGES
+
+* add feature 5 as a breaking change
+
+### Features
+
+* add feature 5 as a breaking change ([38ac8e4](https://github.com/raphaelmdcoelho/semver-automation/commit/38ac8e4fc23a5943a179534339582daba7539224))
+
 ## [4.0.0](https://github.com/raphaelmdcoelho/semver-automation/compare/v3.0.0...v4.0.0) (2026-05-25)
 
 ### ⚠ BREAKING CHANGES
