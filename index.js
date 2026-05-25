@@ -4,3 +4,4 @@ console.log(('bug fix'));
 console.log('feature 2 with BREAKING CHANGE');
 console.log('feature 3');
 console.log('feature 4');
+console.log('feature 5');
