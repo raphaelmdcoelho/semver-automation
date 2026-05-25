@@ -1,3 +1,13 @@
+## [3.0.0](https://github.com/raphaelmdcoelho/semver-automation/compare/v2.0.0...v3.0.0) (2026-05-25)
+
+### ⚠ BREAKING CHANGES
+
+* add feature 3 with breaking change via exclamation mark
+
+### Features
+
+* add feature 3 with breaking change via exclamation mark ([2d12f73](https://github.com/raphaelmdcoelho/semver-automation/commit/2d12f7357bbf763dc48ebdb0b6c8928d5e3b93eb))
+
 # [2.0.0](https://github.com/raphaelmdcoelho/semver-automation/compare/v1.0.1...v2.0.0) (2026-05-17)
 
 
